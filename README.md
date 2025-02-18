@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
         <div class="section" id="contact">
             <h2>Contact</h2>
             <p>Email: adesh@example.com</p>
-            <p>GitHub: <a href="https://github.com/adesh" target="_blank">github.com/adesh</a></p>
+            <p>GitHub: <a href="https://github.com/adeshnarwade target="_blank">github.com/adesh</a></p>
             <p>LinkedIn: <a href="https://linkedin.com/in/adesh" target="_blank">linkedin.com/in/adesh</a></p>
         </div>
     </div>
