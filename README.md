@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 <body>
     <header>
         <h1>Adesh Narwade</h1>
-        <p>Software Developer | Problem Solver</p>
+       
     </header>
     <div class="container">
         <div class="section" id="about">
